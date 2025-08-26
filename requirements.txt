@@ -1,0 +1,11 @@
+langgraph
+langchain
+langchain_groq
+dotenv
+langchain_community
+langchain_huggingface
+langchain_chroma
+jq
+sentence_transformers
+faiss-cpu
+uuid
